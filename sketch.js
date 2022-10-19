@@ -1,8 +1,8 @@
-let w = 1000;
-let h = 1000;
+let w = 2000;
+let h = 2000;
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(2000, 2000);
 }
 
 function draw() {
